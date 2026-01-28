@@ -33,5 +33,5 @@ Data has been cleaned, modeled, and transformed within Power BI.
 
 
 ### Dashboard Preview
-[Customer Analysis Dashboard](dashboard-preview.png)
+[Customer Analysis Dashboard](Customer Analysis Dashboard/Dashboard preview.png)
 
