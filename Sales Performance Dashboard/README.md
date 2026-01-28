@@ -23,9 +23,10 @@ This Power Bi dashboard analyzes sales performance and through interactive visua
 - Trend analysis over time
 
 ## Tools Used
-- Power BI Desktop
-- Power Query
-- DAX in Power BI
+- Power BI
+- DAX (calculated measures and KPIs)
+- Data modeling
+- Data cleaning and transformation
 
 ## Dashboard Overview
 
