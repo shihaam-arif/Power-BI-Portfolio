@@ -30,7 +30,8 @@ The dashboard is designed to support data-driven decisions in marketing, sales s
 ### 📁 Dataset
 Sample business customer dataset used for analytical and learning purposes.  
 Data has been cleaned, modeled, and transformed within Power BI.
-[Dataset](https://github.com/shihaam-arif/Power-BI-Portfolio/blob/main/Customer%20Analysis%20Dashboard/Customer%20Analysis.csv)
+
+[Customer Analysis Dataset](https://github.com/shihaam-arif/Power-BI-Portfolio/blob/main/Customer%20Analysis%20Dashboard/Customer%20Analysis.csv)
 
 ### Dashboard Preview
 [Customer Analysis Dashboard](https://github.com/shihaam-arif/Power-BI-Portfolio/blob/main/Customer%20Analysis%20Dashboard/Dashboard%20preview.png)
